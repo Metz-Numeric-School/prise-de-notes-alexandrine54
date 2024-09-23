@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/Algo/Les variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/Algo/Les variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/Algo/Les variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md"
+                "file": "Cours/Algo/Les variables.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
     "README.md",
-    "Cours/Algo/Algo 10-09-2024.md",
+    "Cours/Algo/Les variables.md",
     "fonction.md",
     "Cours/Module A/Séance 1.md",
     "Cours/Module A/Séance 2.md",
