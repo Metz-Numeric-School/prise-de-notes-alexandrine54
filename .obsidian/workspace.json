@@ -138,23 +138,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
+    "README.md",
     "Cours/Algo/Algo 10-09-2024.md",
     "fonction.md",
     "Cours/Module A/Séance 1.md",
     "Cours/Module A/Séance 2.md",
     "Veille/Ressources web.md",
     "Cours/Algo",
-    "README.md",
     "Cours/Sans titre 1",
     "Cours/Module A",
     "Veille",
