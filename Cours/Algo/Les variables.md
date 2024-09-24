@@ -118,4 +118,7 @@ Lire de gauche à droite
 | a = a + b + c | 70  | 40  | 20  |     |
 | c = a - b + c | 70  | 40  | 50  |     |
 
+nom = input("Quel est votre nom : ")
+
+print("Salut", nom)
 
