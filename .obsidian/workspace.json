@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parc informatique/Cours 1.md",
+                "file": "Cours/Gestion de projet/Cours.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68c7d06e8786a46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Système/Les niveaux de gestion de maintenance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parc informatique/Cours 1.md",
+                "file": "Système/Les niveaux de gestion de maintenance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parc informatique/Cours 1.md",
+                "file": "Système/Les niveaux de gestion de maintenance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parc informatique/Cours 1.md"
+                "file": "Système/Les niveaux de gestion de maintenance.md"
               }
             }
           }
@@ -195,13 +207,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef6d8261cfa4057d",
+  "active": "68c7d06e8786a46c",
   "lastOpenFiles": [
+    "Cours/Gestion de projet/Cours.md",
+    "Système/Les niveaux de gestion de maintenance.md",
+    "Système",
+    "Parc informatique/Cours 1.md",
+    "Cours/Gestion de projet",
     "Pasted image 20240925115251.png",
     "Pasted image 20240925115247.png",
     "Cours/Algo/Functions.md",
-    "Parc informatique/Cours 1.md",
-    "Untitled",
     "Parc informatique",
     "Cours/Algo/Listes.md",
     "Cours/Algo/Opérateurs de comparaison.md",
@@ -220,7 +235,6 @@
     "ALGO/Sommaire.md",
     "Welcome.md",
     "ALGO",
-    "CSS",
-    "HTML"
+    "CSS"
   ]
 }
