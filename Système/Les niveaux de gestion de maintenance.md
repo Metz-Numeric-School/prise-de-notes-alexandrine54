@@ -42,3 +42,46 @@ Ainsi que les coûts indirects :
 
 Ces coûts seront d'autant plus importants que la machine est une ressource critique dans le processus.
 
+
+### L'appréciation du risque
+
+Le premier critère de choix est l'importance des conséquences ou répercutions d'une panne. Certains équipements ou machines ne doivent pas tomber en panne, car les conséquences économiques, qualitatives ou environnementales sont importantes :
+- Economique : perte d'exploitation et pénalités de retard pour un fournisseur de l'industrie automobile
+- Qualitative : l'arrêt et le redémarrage ont une incidence sur la qualité des produits sans que la détérioration soit directement visible
+- Environnementale : le retraitement d'effluents (fumées, fluides…) ne peut faire faire durant la panne, libérant ces effluents dans l'environnement. 
+
+
+Risque inacceptable : supprimer les causes de panne et supprimer les effets des pannes résiduelles
+
+Risque acceptable si limité : choisir entre maintenance préventive systématique et maintenance conditionnelle
+
+Risque acceptable : prévention inutile
+
+## La charge de la machine
+
+Si la machine est saturée, chargée à 100% l'impact d'un arrêt n'est pas le même que pour une machine dont la charge est faible.
+
+
+### Analyse multicritères 
+
+MTBF désigne le temps moyen entre défaillance consécutives
+MTBF = Somme des temps de Bon Fonctionnement / nombre de défaillances
+
+La Somme Des Temps de Bon Fonctionnement inclut les temps d'arrêts hors défaillance et les temps. 
+
+Besoin en disponibilité
+1. Faible : taux de disponibilité > 95 %
+• 36h par mois ou de 18j par an
+2. Significatif: taux de disponibilité > 99%
+• 7h par mois ou de 3,5j par an
+3. Important : taux de disponibilité > 99,5%
+• 3h30 par mois ou de 2j par an
+4. Critique: taux de disponibilité > 99,9%
+• 40 min par mois ou de 8h30 par an
+
+
+![[Pasted image 20241002154602.png]]
+
+
+### La roue de deming (PDCA)
+
