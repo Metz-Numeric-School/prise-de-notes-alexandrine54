@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad2ae2bc0a3dc4fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partie 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture Juridique/Partie 1.md",
+                "file": "Partie 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture Juridique/Partie 1.md",
+                "file": "Partie 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture Juridique/Partie 1.md"
+                "file": "Partie 1.md"
               }
             }
           }
@@ -159,12 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2aaa38eeb3d96d99",
+  "active": "ad2ae2bc0a3dc4fb",
   "lastOpenFiles": [
+    "Culture Juridique/Partie 1.md",
+    "Partie 1.md",
+    "English",
     "Pasted image 20241009093530.png",
     "Culture Juridique",
     "Cloud Computing/Partie 1 07-10-24.md",
-    "Culture Juridique/Partie 1.md",
     "Pasted image 20241008162144.png",
     "Pasted image 20241008162129.png",
     "Pasted image 20241008100952.png",
@@ -174,7 +188,6 @@
     "Pasted image 20241008100228.png",
     "Pasted image 20241008094635.png",
     "Pasted image 20241008094222.png",
-    "Pasted image 20241008094128.png",
     "Système/Les niveaux de gestion de maintenance.md",
     "Cours/Gestion de projet/Cours.md",
     "Cours/Algo/Functions.md",
@@ -196,7 +209,6 @@
     "Cours/Sans titre 1",
     "Cours/Module A",
     "Veille",
-    "Cours",
     "ALGO/Sommaire.md",
     "Welcome.md"
   ]
