@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2aaa38eeb3d96d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture Juridique/Partie 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Partie 1 07-10-24.md",
+                "file": "Culture Juridique/Partie 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/Partie 1 07-10-24.md",
+                "file": "Culture Juridique/Partie 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/Partie 1 07-10-24.md"
+                "file": "Culture Juridique/Partie 1.md"
               }
             }
           }
@@ -146,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e9cbe2cdfb4cd84",
+  "active": "2aaa38eeb3d96d99",
   "lastOpenFiles": [
+    "Pasted image 20241009093530.png",
+    "Culture Juridique",
+    "Cloud Computing/Partie 1 07-10-24.md",
+    "Culture Juridique/Partie 1.md",
+    "Pasted image 20241008162144.png",
+    "Pasted image 20241008162129.png",
     "Pasted image 20241008100952.png",
     "Pasted image 20241008100749.png",
     "Pasted image 20241008100328.png",
@@ -156,13 +175,9 @@
     "Pasted image 20241008094635.png",
     "Pasted image 20241008094222.png",
     "Pasted image 20241008094128.png",
-    "Pasted image 20241008094054.png",
-    "Pasted image 20241008092529.png",
-    "Pasted image 20241008092302.png",
     "Système/Les niveaux de gestion de maintenance.md",
     "Cours/Gestion de projet/Cours.md",
     "Cours/Algo/Functions.md",
-    "Cloud Computing/Partie 1 07-10-24.md",
     "Cloud Computing",
     "Système",
     "Parc informatique/Cours 1.md",
@@ -183,7 +198,6 @@
     "Veille",
     "Cours",
     "ALGO/Sommaire.md",
-    "Welcome.md",
-    "ALGO"
+    "Welcome.md"
   ]
 }
