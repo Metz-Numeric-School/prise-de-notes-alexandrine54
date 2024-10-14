@@ -37,3 +37,47 @@ A gas car burns in its lifetime over 5.400 gallons
 - No noise pollution, so people living near a highway are less disturbe by the sound and it's more comfortable for them. 
 - Lower running costs : Electric vehicles use electricity to charge their batteries instead of using fossil fuels like petrol or diesel and charging an electric vehicle is cheaper than filling petrol or diesel for your travel requirements
 - Also health Benefits, because it can protect the vulnerable people from the air pollution, the electric car don't release any harmul gases and it can be a good thing in the big cities where air quality is often poor.
+
+
+Squirrel
+Brewery
+Throughout
+Through
+Bother
+Neighbourhood
+Thief
+Thigh
+Disinterested
+Irregardless
+Unabashed
+Hierarchy
+Nonetheless
+Worcestershire
+Banshee
+
+
+### The use of modals :
+auxiliaries : can / could 
+must / should / shall
+may /might
+have to / need to
+
+##### Modal + Verb
+I must pay taxes
+I can swim
+
+
+
+#### Modal verbs :
+
+- can (a) ability to do something ; 
+- (b) askink for permission
+- Could : (a) "   "   "    "   Past form of can; "  "  "   " (more polite)
+- Must : internal obligation
+- Mustn't : prohibition
+-  Have to : external obligation
+- need to : necessity
+- (a) Will : suggestions 
+- (b) would : polite request
+- shall : with I and We very polite request 
+
