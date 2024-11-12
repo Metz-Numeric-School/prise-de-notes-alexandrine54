@@ -81,3 +81,24 @@ I can swim
 - (b) would : polite request
 - shall : with I and We very polite request 
 
+
+
+| Informal       | Formal                                                               |
+| -------------- | -------------------------------------------------------------------- |
+| Hi             | Hello/Good morning                                                   |
+| Can I help you | How may I help you ? How can I assist you?                           |
+| Thanks         | Thank you, you are welcome, my pleasure/don't mention it. Sir/Madame |
+
+The head of the company = ceo
+Boss = informal
+Interviewer = interviewee (the candidates)
+graduated (verb)
+currently (adverbe, actuellement)
+how do you handle/manage stress
+
+How long have you been at MNS ?
+
+
+adj + ing = what it makes me feel
+adj + ed = describe the feeling
+
