@@ -1,5 +1,6 @@
 
 
+
 Prepositions of place
 at -> to specify your location, at your point
 on -> surface (on the street, on the first floor, on the table)
@@ -102,3 +103,22 @@ How long have you been at MNS ?
 adj + ing = what it makes me feel
 adj + ed = describe the feeling
 
+
+1- c
+2- b
+3- b
+4- c
+5- b
+6- b
+7- a
+8- b
+9- b
+10- b
+11- b
+12- b
+13- a
+14- c
+15- b
+16- b
+17- a 
+18- b
