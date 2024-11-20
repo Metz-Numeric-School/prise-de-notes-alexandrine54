@@ -122,3 +122,34 @@ adj + ed = describe the feeling
 16- b
 17- a 
 18- b
+
+1) Preposition of time 
+1- at : specific time, ex : at 10 : 00 / at noon / at midnight / at the weekend
+2- on : days, ex : on monday, on christmas day, on my birthday
+3- in : during a time, ex : in the evening, in 1998, in winter, in Christmas
+
+2) Preposition of place :
+1- at : specific location 
+2- on : surface or media (on Instagram, on Internet)
+3- in : Inside (in the building, in the classroom)
+
+
+##### Present perfect
+
+have/has(auxiliary) + past participe form
+1- unfinished action :
+- ex : Theo has been at school since September, They have been married for 3 years.
+2- Life experience : (ever /never)
+- Have you ever visited Paris ?
+- I have ever seen a Gorilla
+3- Recent actions : 
+- I have seen Matheo this week/recently
+
+
+##### Future :
+
+1) Will + verb = uncertain, rapid decision
+2) be + going to + verb = certain, evidence
+
+
+

@@ -232,9 +232,9 @@ C'est une méthode de gestion de projet utilisée pour planifier et organiser le
 - Quelle est la probabilité pour que cela arrive ?
 - Quel est le niveau de SEVERITE si cela arrive ?
 
-#### La gestion des risques
-
-
-
-
+Technique
+Humain
+Organisation
+Economie (Finance - Budget)
+Environnement (DEEE)
 
