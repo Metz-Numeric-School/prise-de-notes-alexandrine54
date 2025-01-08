@@ -1,6 +1,6 @@
 
 
-interface gigabitEthernet 0/1
+interface gigabitEthernet 0/0
 switchport mode trunk
 switchport trunk encapsulation dot1q
 
