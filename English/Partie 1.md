@@ -152,4 +152,78 @@ have/has(auxiliary) + past participe form
 2) be + going to + verb = certain, evidence
 
 
+### A) List of vocabulary words : 
+
+
+1. Admin privilege : Having control of any given system  
+2. Advanced persistent threats (danger) : stealing data without harming network  
+3. Air gap : isolating a network from external networks, to avoid (éviter) any attacks  
+4. Attack vector : a technique that a hacker uses to gain access to a system  
+5. Authenticator : the way which an identity is confirmed
+6. Adware : A software that displays or downloads a system when you are offline
+
+
+### B) 
+
+1. Backdoor : a way to access a software or a hardware, unauthorized and implanted by intelligence agencies
+2. Bitcoin : a form of electronic cash created by Satoshi Nakamoto
+3. Black hat hacking : Hacking with malicious intentions
+4. Bot : Programs that execute tasks as ordered by the creator of the program
+5. Botnet : a collection of private computers that are infected with malicious software without the owner's knowledge
+6. Bug : an error of a flaw (default) in a computer program
+7. Brute force attack : When an attacker inputs many passwords in the hope that he guesses correctly 
+
+gap : écart
+owner : to own
+knowledge : connaissance
+to avoid : éviter
+threat : menace or danger
+to harm : mettre en danger
+a flaw : un default
+
+
+- NIS South Korea
+- BND Germany
+- DGSE France
+- ASIS Australia
+- FSB Russie
+- MSS Chine
+- RAW India
+- MI6 UK
+- MOSSAD Israel
+- CSIS Canada
+- NSA - USA
+- GIP - Saudi Arabia
+- 1 CIA - USA
+
+
+NIS : 
+The agency was officially established in 1961 as the **Korean Central Intelligence Agency**.
+The National Intelligence Service in Korea is **responsible for overseeing national cybersecurity policy and defending against cyber threats.
+The original duties of the KCIA were to supervise and coordinate both international and domestic intelligence activities and criminal investigations by all government intelligence agencies, including that of the military.
+The NIS also investigates any cyber intrusions and conducts information analyses on cyber threats.
+President Park’s government extensively used the intelligence service to suppress and disrupt anti-government or pro–[North Korean](https://en.wikipedia.org/wiki/North_Korea "North Korea") or other pro-communist movements, including the widespread student protests on university campuses and the activities of overseas Koreans.
+In April 2014, the NIS was accused of fabricating false documents to accuse a North Korean of spying. A month later, the head of the NIS, Nam Jae-joon, resigned.
+
+CIA :
+The Central Intelligence Agency (CIA), founded in 1947 by the National Security Act, is one of the most well-known intelligence agencies in the United States. It is responsible for the acquisition of intelligence (notably by means of espionage) and most clandestine operations carried out outside the United States.
+The CIA has two roles: on the one hand, it provides and analyses information on governments, companies and individuals from all over the world for the US government; and on the other hand, it conducts clandestine operations abroad. The latter, although often cited, would represent only about 3% of agency expend-in g.
+
+
+### Spy ops
+
+
+Ancien MI6 travaille pour le KGB (infiltrer)
+
+sa mère était contre le KGB car son père(son mari) en faisant partie
+
+drinking vodka 
+
+system totalitaire
+soviet regim
+illegal support officer (KGB) spy
+the danish avait besoin de l'aide des anglais MI6
+Ils l'ont choisi car il été haut gradé
+
+
 
