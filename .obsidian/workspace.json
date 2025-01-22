@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture réseau/Routage layer 3.md",
+                "file": "Culture Juridique/Cours 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Routage layer 3"
+              "title": "Cours 2"
             }
           },
           {
@@ -511,11 +511,12 @@
   },
   "active": "a9a99467e3fd90d2",
   "lastOpenFiles": [
-    "Architecture réseau/2024.md",
-    "Architecture réseau/Routage layer 3.md",
-    "Cours/Algo/Functions.md",
     "English/Partie 1.md",
-    "Culture Juridique/Partie 1.md",
+    "Culture Juridique/Cours 2.md",
+    "Culture Juridique/Cours 1.md",
+    "Architecture réseau/Routage layer 3.md",
+    "Architecture réseau/2024.md",
+    "Cours/Algo/Functions.md",
     "Linux/Linux-Commandes.md",
     "Système/Client avancé Cours 3 Protection et Récupération du  Système.md",
     "Système/Les niveaux de gestion de maintenance.md",
@@ -558,7 +559,6 @@
     "Architecture réseau",
     "Windows Server/Windows Server - DHCP.md",
     "Windows Server",
-    "English",
-    "Cloud Computing/Partie 1 07-10-24.md"
+    "English"
   ]
 }
