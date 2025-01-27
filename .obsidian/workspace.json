@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture Juridique/Cours 2.md",
+                "file": "Serveur avancé/Service WDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 2"
+              "title": "Service WDS"
             }
           },
           {
@@ -511,11 +511,16 @@
   },
   "active": "a9a99467e3fd90d2",
   "lastOpenFiles": [
-    "English/Partie 1.md",
-    "Culture Juridique/Cours 2.md",
-    "Culture Juridique/Cours 1.md",
+    "Serveur avancé/Remote App (serveur d'applications).md",
+    "Serveur avancé/Service WDS.md",
+    "Untitled.md",
     "Architecture réseau/Routage layer 3.md",
     "Architecture réseau/2024.md",
+    "Réseau/VMware Workstation.md",
+    "Parc informatique/Cours 1.md",
+    "Culture Juridique/Cours 2.md",
+    "English/Partie 1.md",
+    "Culture Juridique/Cours 1.md",
     "Cours/Algo/Functions.md",
     "Linux/Linux-Commandes.md",
     "Système/Client avancé Cours 3 Protection et Récupération du  Système.md",
@@ -524,11 +529,8 @@
     "Pasted image 20250107164938.png",
     "Architecture réseau/Trunk packet tracer.md",
     "Untitled",
-    "Réseau/VMware Workstation.md",
     "Architecture réseau/Trouver la première et la dernière adresse d'une adresse ip.md",
     "Architecture réseau/Architecture réseau.md",
-    "Parc informatique/Cours 1.md",
-    "Serveur avancé/Remote App (serveur d'applications).md",
     "Windows client avancé/Cours 2 Déploiement de Windows.md",
     "Serveur avancé",
     "Untitled.canvas",
@@ -555,9 +557,7 @@
     "Pasted image 20241105144541.png",
     "Réseau",
     "Commandes Packet Tracer.md",
-    "Windows Server/Windows Server - DNS.md",
     "Architecture réseau",
-    "Windows Server/Windows Server - DHCP.md",
     "Windows Server",
     "English"
   ]
