@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serveur avancé/Service WDS.md",
+                "file": "Sécurité des systèmes/Proxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Service WDS"
+              "title": "Proxy"
             }
           },
           {
@@ -511,8 +511,10 @@
   },
   "active": "a9a99467e3fd90d2",
   "lastOpenFiles": [
-    "Serveur avancé/Remote App (serveur d'applications).md",
     "Serveur avancé/Service WDS.md",
+    "Sécurité des systèmes/Proxy.md",
+    "Sécurité des systèmes",
+    "Serveur avancé/Remote App (serveur d'applications).md",
     "Untitled.md",
     "Architecture réseau/Routage layer 3.md",
     "Architecture réseau/2024.md",
@@ -556,9 +558,7 @@
     "Cours/Gestion de projet/Projet et démarche qualité",
     "Pasted image 20241105144541.png",
     "Réseau",
-    "Commandes Packet Tracer.md",
     "Architecture réseau",
-    "Windows Server",
-    "English"
+    "Windows Server"
   ]
 }
