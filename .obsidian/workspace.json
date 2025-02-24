@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sécurité des systèmes/Proxy.md",
+                "file": "Connaissance générale et comportementales/Cours 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy"
+              "title": "Cours 3"
             }
           },
           {
@@ -511,8 +511,10 @@
   },
   "active": "a9a99467e3fd90d2",
   "lastOpenFiles": [
-    "Serveur avancé/Service WDS.md",
     "Sécurité des systèmes/Proxy.md",
+    "Connaissance générale et comportementales/Cours 3.md",
+    "Connaissance générale et comportementales",
+    "Serveur avancé/Service WDS.md",
     "Sécurité des systèmes",
     "Serveur avancé/Remote App (serveur d'applications).md",
     "Untitled.md",
@@ -554,11 +556,9 @@
     "technique pert2.png",
     "Pasted image 20241106110426.png",
     "Pasted image 20241106093203.png",
-    "Partie 1.md",
     "Cours/Gestion de projet/Projet et démarche qualité",
     "Pasted image 20241105144541.png",
     "Réseau",
-    "Architecture réseau",
-    "Windows Server"
+    "Architecture réseau"
   ]
 }
