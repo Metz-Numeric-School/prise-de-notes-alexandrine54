@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réseau/Exercices ACLs.md",
+                "file": "Réseau/Adresse IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercices ACLs"
+              "title": "Adresse IP"
             }
           },
           {
@@ -526,11 +526,13 @@
   },
   "active": "a9a99467e3fd90d2",
   "lastOpenFiles": [
+    "Réseau/Exercices ACLs.md",
+    "Réseau/Adresse IP.md",
+    "Pasted image 20250305143304.png",
     "Pasted image 20250305115902.png",
     "Pasted image 20250305115848.png",
     "Pasted image 20250305114716.png",
     "Réseau/ACLs - Access Control List.md",
-    "Réseau/Exercices ACLs.md",
     "Pasted image 20250305111045.png",
     "Pasted image 20250305110325.png",
     "Pasted image 20250305110245.png",
@@ -569,8 +571,6 @@
     "Linux/Transformation de server1 en serveur DHCP avec Kea.md",
     "Linux/Configuration des installations.md",
     "Linux",
-    "Pasted image 20241120092155.png",
-    "Pasted image 20241120090605.png",
     "Système avancé",
     "Cours/Gestion de projet/Projet et démarche qualité",
     "Réseau",

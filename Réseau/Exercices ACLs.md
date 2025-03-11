@@ -642,7 +642,7 @@ range Match only packets in the range of port numbers
 
 cr
 
-i.      Notice that one of the options is <cr> (carriage return). In other words, you can press Enter and the statement would permit all TCP traffic. However, we are only permitting FTP traffic; therefore, enter the eq keyword, followed by a question mark to display the available options. Then, enter ftp and press Enter.
+i.      Notice that one of the options is 'cr' (carriage return). In other words, you can press Enter and the statement would permit all TCP traffic. However, we are only permitting FTP traffic; therefore, enter the eq keyword, followed by a question mark to display the available options. Then, enter ftp and press Enter.
 
 R1(config)# access-list 100 permit tcp 172.22.34.64 0.0.0.31 host 172.22.34.62 eq ?
 
@@ -675,3 +675,111 @@ Extended IP access list 100
 10 permit tcp 172.22.34.64 0.0.0.31 host 172.22.34.62 eq ftp
 
 20 permit icmp 172.22.34.64 0.0.0.31 host 172.22.34.62
+
+
+Step 2: Apply the ACL on the correct interface to filter traffic.
+From R1’s perspective, the traffic that access list HTTP_ONLY applies to is inbound from the network connected to the Gigabit Ethernet 0/1 interface. Enter interface configuration mode and apply the ACL.
+
+Note: On an actual operational network, it is not a good practice to apply an untested access list to an active interface. It should be avoided if possible.
+
+R1(config)# interface gigabitEthernet 0/1
+
+R1(config-if)# ip access-group HTTP_ONLY in
+
+Step 3: Verify the ACL implementation.
+a.     Ping from PC2 to Server. If the ping is unsuccessful, verify the IP addresses before continuing.
+
+b.     From PC2 open a web browser and enter the IP address of the Server. The web page of the Server should be displayed.
+
+c.     FTP from PC2 to Server. The connection should fail. If not, troubleshoot the access list statements and the access-group configurations on the interfaces.
+
+
+![[Pasted image 20250305143304.png]]
+
+
+### Part 1: Configure a Named Extended ACL
+Configure one named ACL to implement the following policy:
+
+·         Block HTTP and HTTPS access from PC1 to Server1 and Server2. The servers are inside the cloud and you only know their IP addresses.
+
+·         Block FTP access from PC2 to Server1 and Server2.
+
+·         Block ICMP access from PC3 to Server1 and Server2.
+
+Note: For scoring purposes, you must configure the statements in the order specified in the following steps.
+
+#### Step 1: Deny PC1 access to HTTP and HTTPS services on Server1 and Server2.
+a.     Create a named extended IP access list on router RT1 which will deny PC1 access to the HTTP and HTTPS services of Server1 and Server2. Four access control statements are required. Use LimitedAccess as the name of the named access list in this activity.
+
+Question:
+What is the command to begin the configuration of an extended access list with the name LimitedAccess?
+
+Type your answers here.
+
+Open configuration window
+
+b.     Begin the ACL configuration with a statement that denies access from PC1 to Server1, only for HTTP (port 80). Refer to the addressing table for the IP address of PC1 and Server1.
+
+RT1(config-ext-nacl)# deny tcp host 172.31.1.101 host 64.101.255.254 eq 80
+
+c.     Next, enter the statement that denies access from PC1 to Server1, only for HTTPS (port 443).
+
+RT1(config-ext-nacl)# deny tcp host 172.31.1.101 host 64.101.255.254 eq 443
+
+d.     Enter the statement that denies access from PC1 to Server2, only for HTTP. Refer to the addressing table for the IP address of Server 2.
+
+RT1(config-ext-nacl)# deny tcp host 172.31.1.101 host 64.103.255.254 eq 80
+
+e.     Enter the statement that denies access from PC1 to Server2, only for HTTPS.
+
+RT1(config-ext-nacl)# deny tcp host 172.31.1.101 host 64.103.255.254 eq 443
+
+
+
+### Part 1: Verify Connectivity in the New Company Network
+First, test connectivity on the network as it is before configuring the ACLs. All hosts should be able to ping all other hosts.
+
+### Part 2: Configure Standard and Extended ACLs per Requirements.
+Configure ACLs to meet the following requirements:
+
+Important guidelines:
+
+o    Do not use explicit deny any statements at the end of your ACLs.
+
+o    Use shorthand (host and any) whenever possible.
+
+o    Write your ACL statements to address the requirements in the order that they are specified here.
+
+o    Place your ACLs in the most efficient location and direction.
+
+ACL 1 Requirements
+
+o    Create ACL 101.
+
+o    Explicitly block FTP access to the Enterprise Web Server from the internet.
+
+o    No ICMP traffic from the internet should be allowed to any hosts on HQ LAN 1
+
+o    Allow all other traffic.
+
+ACL 2 Requirements
+
+o    Use ACL number 111
+
+o    No hosts on HQ LAN 1 should be able to access the Branch Server.
+
+o    All other traffic should be permitted.
+
+ACL 3: Requirements
+
+o    Create a named standard ACL. Use the name vty_block. The name of your ACL must match this name exactly.
+
+o    Only addresses from the HQ LAN 2 network should be able to access the VTY lines of the HQ router.
+
+ACL 4: Requirements
+
+o    Create a named extended ACL called branch_to_hq. The name of your ACL must match this name exactly.
+
+o    No hosts on either of the Branch LANs should be allowed to access HQ LAN 1. Use one access list statement for each of the Branch LANs.
+
+o    All other traffic should be allowed.
